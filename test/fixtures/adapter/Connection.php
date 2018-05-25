@@ -11,7 +11,7 @@ namespace li3_fixtures\test\fixtures\adapter;
 use lithium\core\ConfigException;
 use UnexpectedValueException;
 
-class Connection extends \lithium\core\Object {
+class Connection extends \lithium\core\BaseObject {
 
 	/**
 	 * Auto configuration properties.
